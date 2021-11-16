@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.nav-link {
+  font-size: 2rem;
+}
+.card-style {
+  width: 400px;
+  margin: 0 auto;
+}
+.navbar-brand-style {
+  max-width: 55px;
+  width: 100%;
+}
